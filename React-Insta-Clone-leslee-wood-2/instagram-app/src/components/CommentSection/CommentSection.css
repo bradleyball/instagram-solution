@@ -1,0 +1,16 @@
+.comment-section {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding-left: 10px;
+
+}
+
+.comment-section p {
+    padding: 0 2px 5px 0;
+    line-height: 1rem;
+    margin: 0;
+}
+

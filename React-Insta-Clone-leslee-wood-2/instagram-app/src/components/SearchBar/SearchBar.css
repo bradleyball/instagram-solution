@@ -1,0 +1,31 @@
+.search-bar-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-bar-container .img-logo {
+    width: 30px;
+    padding: 10px;
+    object-fit: contain;
+}
+
+.search-bar-container .text-logo {
+    width: 100px;
+    padding: 10px;
+    object-fit: contain;
+}
+
+
+.search-bar-container .left-logos {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.search-bar-container .right-logos {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

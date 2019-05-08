@@ -1,0 +1,14 @@
+.likes {
+    padding: 10px;
+}
+
+.likes .icons {
+    width: 30px;
+    object-fit: contain;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-right: 10px;
+}
+
+
